@@ -1,0 +1,10 @@
+{
+    "name": "multiserial",
+    "keywords": "serial, communication, protocol",
+    "description": "Write to and read from multiple serial interfaces as if they were just one.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/coddingtonbear/arduino-multiserial.git"
+    },
+    "frameworks": "arduino"
+}
